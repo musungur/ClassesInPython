@@ -24,7 +24,7 @@ fifthborn = Myfamily("Brendah Akhutu Abisai",28,"Married","Fifth")
 
 print(firstborn.fullname)
 
-print(f"{firstborn.fullname}\n") 
+print(f"{firstborn.fullname}\n")
 
 print(f"{firstborn.intro()}\n")
 
